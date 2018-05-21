@@ -5,7 +5,6 @@
 #include <QMediaPlayer>
 #include <QWidget>
 #include <QVideoWidget>
-#include "qpaintwidget.h"
 #include <QPainter>
 #include <QLabel>
 #include <QBitmap>
